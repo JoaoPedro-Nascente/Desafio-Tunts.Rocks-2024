@@ -12,6 +12,8 @@ Para instalar e usar o software são necessários apenas os seguintes comandos:
 
 A aplicação não possui nenhum comando a ser dado após ser rodada.
 
+Link para a planilha lida e alterada: https://docs.google.com/spreadsheets/d/1yEzMLGotflN5SiIhPbKo0yrngdiXystICWR2yfc_TQw/edit#gid=0
+
 
 ## Autor
 
