@@ -7,6 +7,7 @@ Programa desenvolvido no desafio técnico Tunts.Rocks, como parte do processo se
 Para instalar e usar o software são necessários apenas os seguintes comandos:
 
 ```pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib```
+
 ```python ./main.py```
 
 A aplicação não possui nenhum comando a ser dado após ser rodada.
